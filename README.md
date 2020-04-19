@@ -12,7 +12,7 @@ deep learning model extract embeddings of the face that mean the qualities of a 
 
 face embedding are extracted by the following process- three images are fed up by the user psitive and anchor are the face that need to be detected and the negative image is some random face. the model compare sthe weights of the image where anchor and positive are of same weight and negative is farther away from the range.
 
-we are passing three dataset omne is me another is my brother and one unknown person  that will help us to label the people who are not in the direvtory 
+we are passing three dataset one is me another is my brother and one unknown person  that will help us to label the people who are not in the directory 
 
 now coming on the files that are needed
 dataset- it is a file consisting of folder that are named to the people, consisting of 6 images 
